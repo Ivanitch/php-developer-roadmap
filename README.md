@@ -7,7 +7,7 @@
 	* DNS
 	* Домен
 	* Хостинг
-* Базовые знания о Frontend
+* Базовые знания о Frontend (знать, что такие технологии есть и принципы их работы)
 	* [HTML](http://htmlbook.ru/) &nbsp;&nbsp;[[ещё]](https://htmlbase.ru/)
 	* [CSS](http://htmlbook.ru/) &nbsp;&nbsp;[[ещё]](https://htmlbase.ru/)
 		* CSS Frameworks
@@ -28,3 +28,6 @@
 	* [JavaScript](https://learn.javascript.ru/)
 		* [jQuery](https://jquery.com/)
 		* [Ajax](https://javascript.ru/ajax/intro) &nbsp;&nbsp;[[jQuery.ajax()]](https://api.jquery.com/jquery.ajax/)
+		* [Vue](https://vuejs.org/)
+		* [React](https://reactjs.org/)
+		* [Angular](https://angular.io/)
