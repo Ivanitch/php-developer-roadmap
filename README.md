@@ -25,6 +25,6 @@
 			* [LESS](http://lesscss.org/)
 			* [Stylus](https://stylus-lang.com/)
 
-	* JavaScript
-		* jQuery
-		* Ajax
+	* [JavaScript](https://learn.javascript.ru/)
+		* [jQuery](https://jquery.com/)
+		* [Ajax](https://javascript.ru/ajax/intro) &nbsp;&nbsp;[[jQuery.ajax()]](https://api.jquery.com/jquery.ajax/)
