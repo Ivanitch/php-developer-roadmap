@@ -20,7 +20,11 @@
 			* [Pure CSS](https://purecss.io/)
 			* [Semantic UI](https://semantic-ui.com/)
 			* [UI kit](http://getuikit.com/)
-			
+		* Препроцессоры CSS
+			* [Sass (SCSS)](https://sass-lang.com/) [[ru]](https://sass-scss.ru/)
+			* [LESS](http://lesscss.org/)
+			* [Stylus](https://stylus-lang.com/)
+
 	* JavaScript
 		* jQuery
 		* Ajax
