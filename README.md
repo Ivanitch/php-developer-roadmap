@@ -33,3 +33,6 @@
 		* [Angular](https://angular.io/)
 * Системы контроля версий &nbsp;[[Git]](https://githowto.com/)
 * Системы управления репозиториями кода (для Git) &nbsp;&nbsp;[[github]](https://github.com/) &nbsp;&nbsp;[[gitlab]](https://gitlab.com/) &nbsp;&nbsp;[[bitbucket]](https://bitbucket.org/)
+* PHP IDE/Editor
+	* [PHP Storm](https://www.jetbrains.com/phpstorm/)
+	* [VS Code](https://code.visualstudio.com/)
