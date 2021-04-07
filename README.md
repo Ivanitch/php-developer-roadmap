@@ -8,8 +8,8 @@
 	* Домен
 	* Хостинг
 * Базовые знания о Frontend
-	* HTML
-	* CSS
+	* [HTML](http://htmlbook.ru/) &nbsp;&nbsp;[[ещё]](https://htmlbase.ru/)
+	* [CSS](http://htmlbook.ru/) &nbsp;&nbsp;[[ещё]](https://htmlbase.ru/)
 		* CSS Frameworks
 			* [Bootstrap](https://getbootstrap.com/)
 			* [Foundation](https://get.foundation/)
@@ -21,7 +21,7 @@
 			* [Semantic UI](https://semantic-ui.com/)
 			* [UI kit](http://getuikit.com/)
 		* Препроцессоры CSS
-			* [Sass (SCSS)](https://sass-lang.com/) [[ru]](https://sass-scss.ru/)
+			* [Sass (SCSS)](https://sass-lang.com/) &nbsp;&nbsp;[[ru]](https://sass-scss.ru/)
 			* [LESS](http://lesscss.org/)
 			* [Stylus](https://stylus-lang.com/)
 
