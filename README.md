@@ -31,7 +31,7 @@
 		* [Vue](https://vuejs.org/)
 		* [React](https://reactjs.org/)
 		* [Angular](https://angular.io/)
-* Системы контроля версий &nbsp;[[Git]](https://githowto.com/)
+* Системы контроля версий &nbsp;[[Git]](https://githowto.com/) &nbsp;&nbsp;[[Скринкаст по Git]](https://www.youtube.com/watch?v=QkY8lXZuiqQ&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h)
 * Системы управления репозиториями кода (для Git) &nbsp;&nbsp;[[github]](https://github.com/) &nbsp;&nbsp;[[gitlab]](https://gitlab.com/) &nbsp;&nbsp;[[bitbucket]](https://bitbucket.org/)
 * PHP IDE/Editor
 	* [PHP Storm](https://www.jetbrains.com/phpstorm/)
