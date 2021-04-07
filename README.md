@@ -31,3 +31,5 @@
 		* [Vue](https://vuejs.org/)
 		* [React](https://reactjs.org/)
 		* [Angular](https://angular.io/)
+* Системы контроля версий &nbsp;[[Git]](https://githowto.com/)
+* Системы управления репозиториями кода (для Git) &nbsp;&nbsp;[[github]](https://github.com/) &nbsp;&nbsp;[[gitlab]](https://gitlab.com/) &nbsp;&nbsp;[[bitbucket]](https://bitbucket.org/)
