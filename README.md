@@ -36,3 +36,9 @@
 * PHP IDE/Editor
 	* [PHP Storm](https://www.jetbrains.com/phpstorm/)
 	* [VS Code](https://code.visualstudio.com/)
+
+
+...
+* Awesome PHP
+	* [https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
+	* [https://github.com/uhub/awesome-php](https://github.com/uhub/awesome-php)
