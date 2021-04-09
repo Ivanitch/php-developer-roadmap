@@ -35,6 +35,8 @@
 * Системы управления репозиториями кода (для Git) &nbsp;&nbsp;[[github]](https://github.com/) &nbsp;&nbsp;[[gitlab]](https://gitlab.com/) &nbsp;&nbsp;[[bitbucket]](https://bitbucket.org/)
 * PHP IDE/Editor
 	* [PHP Storm](https://www.jetbrains.com/phpstorm/)
+		* [Shortcuts](https://github.com/mohsenjalalian/awesome-shortcuts/blob/master/phpstorm/phpstorm.md)
+		* [Tips](https://phpstorm.tips/tips/)
 	* [VS Code](https://code.visualstudio.com/)
 
 
