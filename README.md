@@ -12,14 +12,9 @@
 	* [CSS](http://htmlbook.ru/) &nbsp;&nbsp;[[ещё]](https://htmlbase.ru/)
 		* CSS Frameworks
 			* [Bootstrap](https://getbootstrap.com/)
-			* [Foundation](https://get.foundation/)
-			* [Tailwind CSS](https://tailwindcss.com/)
-			* [Materialize CSS](https://materializecss.com/)
-			* [Bulma](https://bulma.io/)
-			* [Skeleton](http://getskeleton.com/)
-			* [Pure CSS](https://purecss.io/)
-			* [Semantic UI](https://semantic-ui.com/)
-			* [UI kit](http://getuikit.com/)
+			* [MDBootstrap](https://mdbootstrap.com/)
+			* [UI Kit](http://getuikit.com/)
+			* [Bulma](https://bulma.io/)			
 		* Препроцессоры CSS
 			* [Sass (SCSS)](https://sass-lang.com/) &nbsp;&nbsp;[[ru]](https://sass-scss.ru/)
 			* [LESS](http://lesscss.org/)
