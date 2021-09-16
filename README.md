@@ -77,6 +77,11 @@
 - [Symfony](https://symfony.com/)
 - [Laminas](https://getlaminas.org/)
 
+### Composer
+* [Официальная документация](https://getcomposer.org/)
+* [Composer Cheat Sheet for developers](https://composer.json.jolicode.com/)
+* [Composer cheatsheet](https://devhints.io/composer)
+
 ### Awesome PHP
 * [https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [https://github.com/uhub/awesome-php](https://github.com/uhub/awesome-php)
