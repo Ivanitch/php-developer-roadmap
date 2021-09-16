@@ -65,6 +65,14 @@
 * [ЧАсто задаваемые Вопросы и Ответы на них](https://www.php.net/manual/ru/faq.php)
 * [Приложения](https://www.php.net/manual/ru/appendices.php)  
 
+### PHP Frameworks
+- [CodeIgniter](https://codeigniter.com/)
+- [Slim](https://www.slimframework.com/)
+- [Laravel](https://laravel.com/)
+- [Yii Framework](https://www.yiiframework.com/)
+- [Symfony](https://symfony.com/)
+- [Laminas](https://getlaminas.org/)
+
 ### Awesome PHP
 * [https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [https://github.com/uhub/awesome-php](https://github.com/uhub/awesome-php)
