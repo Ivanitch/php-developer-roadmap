@@ -55,6 +55,10 @@
 * Нормализация базы данных
 * Индексы и как они работают
 
+### Web Servers
++ Apache
++ Nginx
+
 ### Официальная документация по PHP
 * [Приступая к работе](https://www.php.net/manual/ru/getting-started.php)
 * [Установка и настройка](https://www.php.net/manual/ru/install.php)
