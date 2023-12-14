@@ -69,6 +69,10 @@
 * [ЧАсто задаваемые Вопросы и Ответы на них](https://www.php.net/manual/ru/faq.php)
 * [Приложения](https://www.php.net/manual/ru/appendices.php)  
 
+### PHP Advanced
+* [PHP Standards Recommendations | PSR](https://www.php-fig.org/psr/)
+* [Авторские продукты от Дмитрия Елисеева](https://clck.ru/376pGB)
+
 ### PHP Frameworks
 - [CodeIgniter](https://codeigniter.com/)
 - [Slim](https://www.slimframework.com/)
