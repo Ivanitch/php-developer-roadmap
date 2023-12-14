@@ -56,8 +56,8 @@
 * Индексы и как они работают
 
 ### Web Servers
-+ Apache
-+ Nginx
++ [Apache](https://httpd.apache.org)
++ [Nginx](https://nginx.org/ru/)
 
 ### Официальная документация по PHP
 * [Приступая к работе](https://www.php.net/manual/ru/getting-started.php)
