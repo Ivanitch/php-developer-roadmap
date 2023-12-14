@@ -71,7 +71,11 @@
 
 ### PHP Advanced
 * [PHP Standards Recommendations | PSR](https://www.php-fig.org/psr/)
+* Own Framework
+  * [Own Framework based Symfony](https://symfony.com/doc/current/create_framework/index.html)
+  * [PSR-7 фреймворк от Дмитрия Елисеева](https://www.youtube.com/playlist?list=PLE20id3DjfFnio1Sm7WFOThtfqDGQdJgU)
 * [Авторские продукты от Дмитрия Елисеева](https://clck.ru/376pGB)
+* [Скринкасты для профессиональных программистов](https://deworker.pro/)
 
 ### PHP Frameworks
 - [CodeIgniter](https://codeigniter.com/)
