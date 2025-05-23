@@ -85,6 +85,8 @@
   * PHP 8.4
     * [Релиз](https://www.php.net/releases/8.4/ru.php)
     * [Миграция с PHP 8.3.x на PHP 8.4.x](https://www.php.net/manual/ru/migration84.php)
+  * PHP 8.5 [Ожидается 20 ноября 2025]
+
 
 
 ### PHP Advanced
