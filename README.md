@@ -15,7 +15,7 @@
         * [Bootstrap](https://getbootstrap.com/)
         * [MDBootstrap](https://mdbootstrap.com/)
         * [UI Kit](http://getuikit.com/)
-        * [Bulma](https://bulma.io/)			
+        * [Bulma](https://bulma.io/)
     * Препроцессоры CSS
         * [Sass (SCSS)](https://sass-lang.com/) &nbsp;&nbsp;[[ru]](https://sass-scss.ru/)
         * [LESS](http://lesscss.org/)
@@ -67,7 +67,25 @@
 * [Отличительные особенности](https://www.php.net/manual/ru/features.php)
 * [Справочник функций](https://www.php.net/manual/ru/funcref.php)
 * [ЧАсто задаваемые Вопросы и Ответы на них](https://www.php.net/manual/ru/faq.php)
-* [Приложения](https://www.php.net/manual/ru/appendices.php)  
+* [Приложения](https://www.php.net/manual/ru/appendices.php)
+* Версии PHP
+  * [Миграция с PHP 7.3.x на PHP 7.4.x](https://www.php.net/manual/ru/migration74.php)
+  * PHP 8.0
+    * [Релиз](https://www.php.net/releases/8.0/ru.php)
+    * [Миграция с PHP 7.4.x на PHP 8.0.x](https://www.php.net/manual/ru/migration80.php)
+  * PHP 8.1
+    * [Релиз](https://www.php.net/releases/8.1/ru.php)
+    * [Миграция с PHP 8.0.x на PHP 8.1.x](https://www.php.net/manual/ru/migration81.php)
+  * PHP 8.2
+    * [Релиз](https://www.php.net/releases/8.2/ru.php)
+    * [Миграция с PHP 8.1.x на PHP 8.1.x](https://www.php.net/manual/ru/migration82.php)
+  * PHP 8.3
+    * [Релиз](https://www.php.net/releases/8.3/ru.php)
+    * [Миграция с PHP 8.2.x на PHP 8.3.x](https://www.php.net/manual/ru/migration83.php)
+  * PHP 8.4
+    * [Релиз](https://www.php.net/releases/8.4/ru.php)
+    * [Миграция с PHP 8.3.x на PHP 8.4.x](https://www.php.net/manual/ru/migration84.php)
+
 
 ### PHP Advanced
 * [PHP Standards Recommendations | PSR](https://www.php-fig.org/psr/)
