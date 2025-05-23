@@ -111,3 +111,8 @@
 ### Awesome PHP
 * [https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [https://github.com/uhub/awesome-php](https://github.com/uhub/awesome-php)
+
+## Дополнительно
+- [The PHP Foundation](https://thephp.foundation)
+- [Поддерживаемые версии](https://www.php.net/supported-versions.php)
+- [PHP Roadmap](https://roadmap.sh/php)
