@@ -96,6 +96,7 @@
   * [PSR-7 фреймворк от Дмитрия Елисеева](https://www.youtube.com/playlist?list=PLE20id3DjfFnio1Sm7WFOThtfqDGQdJgU)
 * [Авторские продукты от Дмитрия Елисеева](https://clck.ru/376pGB)
 * [Скринкасты для профессиональных программистов](https://deworker.pro/)
+* [Коллекция общих алгоритмов, реализованных в PHP](https://github.com/doganoo/PHPAlgorithms)
 
 ### PHP Frameworks
 - [CodeIgniter](https://codeigniter.com/)
