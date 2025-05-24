@@ -139,5 +139,6 @@
 ## Дополнительно
 - [The PHP Foundation](https://thephp.foundation)
 - [Поддерживаемые версии](https://www.php.net/supported-versions.php)
+- [API: PHP Releases](https://phpreleases.com/)
 - [PHP Roadmap](https://roadmap.sh/php)
 - [PHP News, Articles, Upcoming Changes, and more](https://php.watch/)
